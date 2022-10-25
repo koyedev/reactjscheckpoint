@@ -1,0 +1,15 @@
+.App h3{
+  text-align: center;
+  font-weight: bold;
+}
+.form{
+  margin: auto;
+  width: 900px;
+  margin-top: 3rem;
+}
+
+footer{
+  margin-top: 13rem;
+  font-weight: bold;
+  text-align: center;
+}
